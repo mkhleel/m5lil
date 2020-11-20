@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Who am I ?
+## → ~ whoami ?
 
 My name is Mahmoud Khalil, I'm a Full-Stack Developer with almost a decade of experience. Based in Luxor, Egypt.
 
