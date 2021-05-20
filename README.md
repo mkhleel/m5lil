@@ -31,17 +31,17 @@ My name is Mahmoud Khalil, I'm a Full-Stack Developer with almost a decade of ex
 - Some of this projects is down and some is private (for companies)
 20. komanda app (Backend, api) (WIP)
 19. Chartered accountant system (WIP)
-18. [Car Trace app] (pwa, vuejs, gmaps)
+18. [Car Trace app] (Laravel, React-native, gmaps)
 1. [thebes.gold](http://thebes.gold) (laravel)
-2. [nilejewel.com](https://nilejewel.com) (laravel e-store)
+2. [aladdinslampjewelry.com](https://www.aladdinslampjewelry.com/) (laravel e-store)
 3. [ask mr hassan](http://askmrhassan.com) (Laravel)
 4. [Bareek Group](http://bareek-group.com/) (Laravel 5.2)
 5. [Meraya](http://merayaco.com/main) (wordpress)
 6. [Spencer Plus](http://spencerplus.com/) (Larvel)
 7. [osol system](http://jenavatech.com/) (laravel system u:123 - p:123123123)
 8. [Luxor Resort](http://www.luxor-resort.com/) (laravel)
-9. [Zues](http://zeusuniversity.us/) (Pure PHP native, MVC).
-10. [Alzaama](http://alzama.com/) (Pure PHP native, MVC)
+9. [Zues](http://zeusuniversity.us/) (Vanilla PHP 2013).
+10. [Alzaama](http://alzama.com/) (Vanilla PHP 2013)
 11. [Star Media Agency](http://starmedia.agency/) (HTML, Gulp, sass, jade).
 12. [Ryada IT](http://ryada4it.com/) (Laravel).
 13. [Tresore Egyptiens](http://tresorsegyptiens.com/) (Magento).
@@ -59,6 +59,11 @@ My name is Mahmoud Khalil, I'm a Full-Stack Developer with almost a decade of ex
 ![1998](https://github.com/m5lil/m5lil/blob/main/me.jpg?raw=true "in 1998")
 
 ---
+
+- 🔭 I’m currently working on Shubbek Lubbek (Saas) for Online Stores
+- 🌱 I’m currently learning Business Model Innovation from TU Delft University and Mobile Web Specialist from google
+- 🤔 I’m looking for help with My Side Project (Prescriptions Mobile App for Lazy Doctors)
+
 Thank You For Your Time
 
 <!--
