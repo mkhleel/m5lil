@@ -29,26 +29,37 @@ My name is Mahmoud Khalil, I'm a Full-Stack Developer with almost a decade of ex
 ### 1.3. **What I Made ?**
 > 
 - Some of this projects is down and some is private (for companies)
-20. komanda app (Backend, api) (WIP)
-19. Chartered accountant system (WIP)
-18. [Car Trace app] (Laravel, React-native, gmaps)
-1. [thebes.gold](http://thebes.gold) (laravel)
-2. [aladdinslampjewelry.com](https://www.aladdinslampjewelry.com/) (laravel e-store)
-3. [ask mr hassan](http://askmrhassan.com) (Laravel)
-4. [Bareek Group](http://bareek-group.com/) (Laravel 5.2)
-5. [Meraya](http://merayaco.com/main) (wordpress)
-6. [Spencer Plus](http://spencerplus.com/) (Larvel)
-7. [osol system](http://jenavatech.com/) (laravel system u:123 - p:123123123)
-8. [Luxor Resort](http://www.luxor-resort.com/) (laravel)
-9. [Zues](http://zeusuniversity.us/) (Vanilla PHP 2013).
-10. [Alzaama](http://alzama.com/) (Vanilla PHP 2013)
-11. [Star Media Agency](http://starmedia.agency/) (HTML, Gulp, sass, jade).
-12. [Ryada IT](http://ryada4it.com/) (Laravel).
-13. [Tresore Egyptiens](http://tresorsegyptiens.com/) (Magento).
-14. [PSD Designs](https://1drv.ms/f/s!AkDtr0kphjFEjiUO5vkur1oN-awF)
-15. [Sun-Egypt](http://sun-egypt.com)
-16. [Artificial intelligence](http://67.23.254.7/~airaoof/) (Pure PHP MVC, user: raoof, pass: 12345)
-17. [Hawk Solutions](http://hawksolutions.be) (Design + Code).
+0. QuranLMS  (Side Project)
+   - Quran Learning Manamgment System with live rooms (slang: Kottab)
+1. [Car Trace app] (Laravel, React-native, gmaps)
+   - Count and record the locations of modern cars around Saudia for legal matters
+2. [Larabuilder Updates](https://codecanyon.net/item/larabuilder-dragdrop-site-builder-and-cms/25279120) (Updating and fix issues)
+3. [aladdinslampjewelry.com](https://www.aladdinslampjewelry.com/) (laravel e-store)
+4. [ask mr hassan](http://askmrhassan.com) (Laravel)
+5. [Bareek Group](http://bareek-group.com/) (Laravel 5.2)
+6. [Meraya](http://merayaco.com/main) (wordpress)
+7. [Yazly](http://yazly.xyz/) (Fixed Issues and ad more features)
+8. [Andalusia](http://www.andalusia2030.com/) (Laravel LMS)
+9. [Luxor Resort](http://www.luxor-resort.com/) (laravel)
+10. [Zues](http://zeusuniversity.us/) (Vanilla PHP 2013).
+11. 
+12. [Star Media Agency](http://starmedia.agency/) (HTML, Gulp, sass, jade).
+
+#### Old Projects
+14. [Tresore Egyptiens](http://tresorsegyptiens.com/) (Magento).
+15. [PSD Designs](https://1drv.ms/f/s!AkDtr0kphjFEjiUO5vkur1oN-awF)
+16. [Sun-Egypt](http://sun-egypt.com)
+17. [Artificial intelligence](http://67.23.254.7/~airaoof/) (Pure PHP MVC, user: raoof, pass: 12345)
+18. [Hawk Solutions](http://hawksolutions.be) (Design + Code).
+19. [thebes.gold](http://thebes.gold) (laravel)
+20. [Spencer Plus](http://spencerplus.com/) (Larvel)
+21. [osol system](http://jenavatech.com/) (laravel system u:123 - p:123123123)
+22. [Alzaama](http://alzama.com/) (Vanilla PHP 2013)
+23. [Ryada IT](http://ryada4it.com/) (Laravel).
+
+
+
+
 
 [My GitHub account](https://github.com/m5lil)
 [My Facebook Profile](https://fb.me/m5leel)
