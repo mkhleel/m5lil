@@ -71,10 +71,10 @@ My name is Mahmoud Khalil, I'm a Full-Stack Developer with almost a decade of ex
 
 ---
 
-- 🔭 I’m currently working on Shubbek Lubbek (Saas) for Online Stores
+<!-- - 🔭 I’m currently working on Shubbek Lubbek (Saas) for Online Stores
 - 🌱 I’m currently learning Business Model Innovation from TU Delft University and Mobile Web Specialist from google
 - 🤔 I’m looking for help with My Side Project (Prescriptions Mobile App for Lazy Doctors)
-
+ -->
 Thank You For Your Time
 
 <!--
