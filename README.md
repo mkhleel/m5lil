@@ -2,48 +2,52 @@
 
 ## → ~ whoami ?
 
-My name is Mahmoud Khalil, I'm a Full-Stack Developer with almost a decade of experience. Based in Luxor, Egypt.
+My name is Mahmoud Khalil, I'm a Senior Developer and a freelancer with almost a decade of experience. living in Luxor, Egypt.
+
+As a web developer, I specialise in the Laravel Framework and love the freedom it gives me to build things quickly. My web development skills extend to frontend aspects of web development including JavaScript and Vue, LESS/Sass/CSS, as well as designing databases and building applications that can scale.
 
 ### 1.1. **Basic Info**
 > 
-* **Email :** m5lil@live.com
-* **Phone :** 010 230 23336
+* **Email :** m5lil@m5lil.com
+* **Phone :** +2015 5015 9000
 * **BD :** 07\12\1988
-* **Marital Status :** married 
+* **Marital Status :** married (No Kids Yet)
 * **Military status :** Final exception
-* **Interests :** Cooking, Entrepreneurship, Technology, Pets, Walking.
+* **Interests :** Cooking, Entrepreneurship, Microcontrollers, Pets, Walking.
 * **Certifications :** Bachelor of Specific Education (Educational Technology)
 
 
 ### 1.2.**What Skills I Have ?**
 > 
-* **Main Stack :** PHP, Laravel, VueJs, JavaScript, Wordpress, ReactJs, Git and Bootstrap. 
+* **Main Stack :** PHP, Laravel, VueJs, JavaScript, Wordpress, ReactJs, MySql, Postgres, REST API, Git and Bootstrap. 
 
 > 
-* **Familiar With :** Flutter, React-Native, Lumen, Codeigniter, MongoDB, PHPUnit, XDebug, jQuery, Bower, NPM, GulpJS, Sass, Linux, OSX, Tailwind, Foundation, NGINX, Apache, PhoneGap, Ionic Framework, ElectronJs,... 
+* **Secondry Stack :** Flutter, React-Native, InertiaJs, Codeigniter, XDebug, NodeJs, jQuery, Bower, GulpJS, Sass, Linux, OSX, Tailwind, Foundation, Ionic Framework,... 
 
 > 
-* **Miscellaneous :** LEMP stack, Digital Ocean, Azure, Amazon Web Services, OOP, MVC, Design & Architecture Principles, AJAX, Resful APIs Integrations, JWT, CORS, JSON, Vagrant, Homestead, Markdown, Linux Ubuntu Server, Slack,...
+* **Miscellaneous :** OOP, MVC, SOLID, Agile methodology,...
 
- 
+> 
+* **Familiar With :** LEMP stack, Digital Ocean, Azure, Amazon Web Services, Vagrant, Homestead, Nginx, Apache,...
+
+
+
 ### 1.3. **What I Made ?**
 > 
 - Some of this projects is down and some is private (for companies)
 0. QuranLMS  (Side Project)
-   - Quran Learning Manamgment System with live rooms (slang: Kottab)
-1. [Car Trace app] (Laravel, React-native, gmaps)
-   - Count and record the locations of modern cars around Saudia for legal matters
+   - Quran Learning Manamgment System with live rooms (slang: Al Kuttab)
+1. [Car Trace app] (Laravel, React-native)
+   - Count and record the locations of modern cars around Saudia for legal matters.
 2. [Larabuilder Updates](https://codecanyon.net/item/larabuilder-dragdrop-site-builder-and-cms/25279120) (Updating and fix issues)
 3. [aladdinslampjewelry.com](https://www.aladdinslampjewelry.com/) (laravel e-store)
 4. [ask mr hassan](http://askmrhassan.com) (Laravel)
 5. [Bareek Group](http://bareek-group.com/) (Laravel 5.2)
-6. [Meraya](http://merayaco.com/main) (wordpress)
-7. [Yazly](http://yazly.xyz/) (Fixed Issues and ad more features)
+6. 
+7. [Yazly](http://yazly.xyz/) (Fixed Issues and add more features)
 8. [Andalusia](http://www.andalusia2030.com/) (Laravel LMS)
-9. [Luxor Resort](http://www.luxor-resort.com/) (laravel)
-10. [Zues](http://zeusuniversity.us/) (Vanilla PHP 2013).
-11. 
-12. [Star Media Agency](http://starmedia.agency/) (HTML, Gulp, sass, jade).
+9. [Meraya](http://merayaco.com/main) (wordpress)
+11. [Star Media Agency](http://starmedia.agency/) (HTML, Gulp, sass, jade)(2012).
 
 #### Old Projects
 14. [Tresore Egyptiens](http://tresorsegyptiens.com/) (Magento).
@@ -56,8 +60,8 @@ My name is Mahmoud Khalil, I'm a Full-Stack Developer with almost a decade of ex
 21. [osol system](http://jenavatech.com/) (laravel system u:123 - p:123123123)
 22. [Alzaama](http://alzama.com/) (Vanilla PHP 2013)
 23. [Ryada IT](http://ryada4it.com/) (Laravel).
-
-
+24. [Luxor Resort](http://www.luxor-resort.com/) (laravel)
+25. [Zues](http://zeusuniversity.us/) (Vanilla PHP 2013). 
 
 
 
@@ -83,7 +87,7 @@ Thank You For Your Time
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning MongoDB, PHPUnit,
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
