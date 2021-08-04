@@ -8,7 +8,7 @@ As a web developer, I specialise in the Laravel Framework and love the freedom i
 
 ### 1.1. **Basic Info**
 > 
-* **Email :** m5lil@m5lil.com
+* **Email :** m5lil@live.com
 * **Phone :** +2015 5015 9000
 * **BD :** 07\12\1988
 * **Marital Status :** married (No Kids Yet)
